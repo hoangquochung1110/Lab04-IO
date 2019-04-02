@@ -25,3 +25,5 @@ Các tasks được thực hiện trong Lab này:
 ```
 GPIO_PORTF_DATA_R = (GPIO_PORTF_DATA_R&(~0x08))|0x20;
 ```
+## Video demo
+Phần demo ngắn có thể được tìm tại [đây](https://youtu.be/pbEmlJ3v3QY) được hỗ trợ bởi khoá học MOOC Embedded Systems - Shape The World: Microcontroller Input/Output của giáo sư Jonathan Valvano của Đại học Texas tại Austin.
